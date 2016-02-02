@@ -1,0 +1,10 @@
+Package: HZtoolbox
+Type: Package
+Title: Useful Functions for Daily Uses
+Version: 0.1
+Date: 2016-01-22
+Author: Hao Zhang, et. al.
+Maintainer: Hao Zhang<hao.zhang@phila.gov>
+Description: This package is a collections of the functions that I found useful in dealing everyday works, I may or may not be the author of the code.
+License: MIT
+LazyData: TRUE
